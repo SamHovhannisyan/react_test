@@ -1,0 +1,4 @@
+export const GET_PHONE_DATA = "GET_PHONE_DATA";
+export const GET_AIR_PODS_DATA = "GET_AIR_PODS_DATA";
+export const GET_KIM_DATA = "GET_KIM_DATA";
+export const GET_AIR_SLIDER_DATA = "GET_AIR_SLIDER_DATA";

@@ -1,0 +1,40 @@
+.imgContainer {
+    max-width: 100%;
+    display: flex;
+    position: relative;
+    justify-content: end;
+    align-items: center;
+}
+
+.phoneImg {
+    width: 358px;
+    height: 775px;
+    position: absolute;
+    left: 250px;
+}
+
+.imgHeadphones img {
+    z-index: -1;
+}
+
+.mainTextContainer {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.textContainer h1 {
+    font-weight: 700;
+    font-size: 54px;
+    line-height: 70px;
+    color: #0C132E;
+}
+
+.textContainer p {
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0C132E;
+    margin-top: 20px;
+}

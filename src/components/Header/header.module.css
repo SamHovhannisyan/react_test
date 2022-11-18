@@ -1,0 +1,12 @@
+.mainHeader {
+    padding: 10px 0;
+}
+
+.links {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    padding: 0 36px;
+}

@@ -1,0 +1,29 @@
+.mainContainer {
+    position: absolute;
+    bottom: 5rem;
+}
+
+.infoContainer h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 60px;
+    color: #FFFFFF;
+}
+
+.infoContainer h4 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.infoContainer h5 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    margin-bottom: 20px;
+}

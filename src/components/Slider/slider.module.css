@@ -1,0 +1,28 @@
+.sliderContainer {
+    max-width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background: #fff;
+    border-radius: 20px;
+    padding: 18px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.sliderContainer h4 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    color: #0C132E;
+    margin-top: 20px;
+}
+
+.sliderContainer div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
